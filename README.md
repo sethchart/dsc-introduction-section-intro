@@ -26,4 +26,4 @@ You will also use some simple datasets to generate bar graphs, histograms, and s
 
 ## Summary
 
-Remember, it's OK to feel a little uncomfortable. For some students, this section will be the most difficult as it introduces so many new concepts at once, but you'll continue to practice these day after day, until they become second nature. For those of you with a strong background in computing, please bear with us as we help everyone else to catch up. We've introduced additional challenges for students who are finding the labs easy, so look out for the "Level Up (optional)" section in some of the labs to get some deeper practice with Python and visualization.
+Remember, it's OK to feel a little uncomfortable. For some students, this section will be the most difficult as it introduces so many new concepts at once, but you'll continue to practice these day after day, until they become second nature. For those of you who already know some of these contents, we've introduced additional challenges for students who are finding the labs easy, so look out for the "Level Up (optional)" section in some of the labs to get some deeper practice with Python and visualization.
